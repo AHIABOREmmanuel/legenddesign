@@ -1,0 +1,60 @@
+.portfolio-img {
+  width: 100%;
+  height: 300px; /* Ajuste la hauteur selon ton besoin */
+  object-fit: cover; /* Permet de garder l'aspect tout en remplissant l'espace */
+}
+
+#sidebar-wrapper {
+  background-color: #342b59; /* Ajoute cette ligne pour la couleur de fond */
+}
+
+/* Changer la couleur du texte */
+.masthead h1,
+.masthead h3 {
+  color: #342b59 !important;
+}
+
+/* Changer la couleur du bouton */
+.btn-primary {
+  background-color: #342b59 !important;
+  border-color: #342b59 !important;
+  color: #ffffff !important; /* Texte en blanc */
+}
+
+.btn-primary:hover {
+  background-color: #291f47 !important; /* Teinte plus foncée au survol */
+  border-color: #291f47 !important;
+}
+
+#services {
+  background-color: #342b59 !important;
+}
+
+.callout h2 {
+  color: #342b59 !important;
+}
+
+.callout h2 {
+  color: #342b59 !important;
+}
+
+.content-section-heading h2 {
+  color: #342b59 !important;
+}
+
+#about h2 {
+  color: #342b59; /* Couleur pour le titre */
+}
+
+#about p {
+  color: #342b59; /* Couleur pour le texte */
+}
+
+#about .btn-dark {
+  background-color: #342b59; /* Couleur de fond du bouton */
+  color: white; /* Couleur du texte du bouton */
+}
+
+#about .btn-dark:hover {
+  background-color: #2a1f47; /* Couleur de fond au survol */
+}
